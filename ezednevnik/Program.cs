@@ -1,6 +1,6 @@
 ﻿namespace Eshednevnik
 {
-    internal class Program
+    class Program
     {
         static DateTime date = DateTime.Now;
         static void Main()
